@@ -1,0 +1,12 @@
+index.html
+type.html
+polymer.html
+styles.css
+README.md
+/js
+  ├─ types.js
+  ├─ type.js
+  ├─ polymer.js
+/data
+  ├─ polymers.json
+/assets  (if any images)
