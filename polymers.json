@@ -1,0 +1,2002 @@
+[
+  {
+    "slug": "polyethylene-ldpe",
+    "name": "Polyethylene (LDPE)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013CH\u2082\u2013CH\u2082\u2013",
+    "monomers": "Ethylene",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "A flexible, low-crystallinity polyethylene used in films and packaging.",
+    "structure": "TBD",
+    "uses": "Plastic bags, films, squeeze bottles, wire and cable jacketing.",
+    "manufacturing": "High-pressure free-radical polymerization of ethylene.",
+    "properties": "Good toughness and clarity; lower density than HDPE.",
+    "safety": "Generally low toxicity as a solid; avoid fumes from overheating. Consult SDS.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Low-density_polyethylene"
+    ]
+  },
+  {
+    "slug": "polyethylene-hdpe",
+    "name": "Polyethylene (HDPE)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013CH\u2082\u2013CH\u2082\u2013",
+    "monomers": "Ethylene",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "High crystallinity polyethylene with excellent chemical resistance.",
+    "structure": "TBD",
+    "uses": "Containers, pipes, geomembranes, milk jugs.",
+    "manufacturing": "Ziegler\u2013Natta or metallocene catalysts under moderate pressure.",
+    "properties": "High stiffness, good impact at low temperature; weldable.",
+    "safety": "Solid HDPE is generally inert; thermal degradation releases irritant fumes.",
+    "links": [
+      "https://en.wikipedia.org/wiki/High-density_polyethylene"
+    ]
+  },
+  {
+    "slug": "linear-low-density-polyethylene-lldpe",
+    "name": "Linear Low-Density Polyethylene (LLDPE)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Linear_Low-Density_Polyethylene"
+    ]
+  },
+  {
+    "slug": "polypropylene-pp",
+    "name": "Polypropylene (PP)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013CH\u2082\u2013CH(CH\u2083)\u2013",
+    "monomers": "Propylene",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Lightweight, semi-crystalline thermoplastic with high fatigue resistance.",
+    "structure": "TBD",
+    "uses": "Automotive trims, living hinges, packaging, fibers.",
+    "manufacturing": "Ziegler\u2013Natta or metallocene catalyzed polymerization of propylene.",
+    "properties": "Low density, good chemical resistance; can be brittle at low temperature.",
+    "safety": "Low acute toxicity; avoid fumes on overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polypropylene"
+    ]
+  },
+  {
+    "slug": "polyvinyl-chloride-pvc",
+    "name": "Polyvinyl Chloride (PVC)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013CH\u2082\u2013CHCl\u2013",
+    "monomers": "Vinyl chloride",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Versatile plastic; rigid PVC for pipes, plasticized PVC for flexible goods.",
+    "structure": "TBD",
+    "uses": "Pipes, profiles, flooring, cable insulation.",
+    "manufacturing": "Suspension polymerization of vinyl chloride monomer (VCM).",
+    "properties": "Flame retardant due to chlorine; rigid or flexible with plasticizers.",
+    "safety": "Avoid burning or overheating which can release HCl and other irritants; follow SDS.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyvinyl_chloride"
+    ]
+  },
+  {
+    "slug": "polystyrene-ps",
+    "name": "Polystyrene (PS)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013CH\u2082\u2013CH(C\u2086H\u2085)\u2013",
+    "monomers": "Styrene",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Amorphous, transparent thermoplastic; brittle unless modified.",
+    "structure": "TBD",
+    "uses": "Disposable cutlery, CD cases, housings; EPS used as foam.",
+    "manufacturing": "Bulk or suspension polymerization of styrene.",
+    "properties": "Rigid, clear; low impact resistance.",
+    "safety": "Solid PS is low hazard; burning can release irritating fumes. EPS is flammable.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polystyrene"
+    ]
+  },
+  {
+    "slug": "high-impact-polystyrene-hips",
+    "name": "High Impact Polystyrene (HIPS)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/High_Impact_Polystyrene"
+    ]
+  },
+  {
+    "slug": "expanded-polystyrene-eps",
+    "name": "Expanded Polystyrene (EPS)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Expanded_Polystyrene"
+    ]
+  },
+  {
+    "slug": "polyethylene-terephthalate-pet",
+    "name": "Polyethylene Terephthalate (PET)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "[\u2013O\u2013CH\u2082\u2013CH\u2082\u2013O\u2013C(O)\u2013C\u2086H\u2084\u2013C(O)\u2013]n",
+    "monomers": "Ethylene glycol + Terephthalic acid (or DMT)",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Widely used polyester with good strength and barrier properties.",
+    "structure": "TBD",
+    "uses": "Beverage bottles, fibers (polyester), films.",
+    "manufacturing": "Esterification/transesterification then polycondensation.",
+    "properties": "Strong, transparent when amorphous; crystallizes on heating.",
+    "safety": "As a solid, low hazard; avoid overheating and follow SDS.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyethylene_terephthalate"
+    ]
+  },
+  {
+    "slug": "petg-glycol-modified-pet",
+    "name": "PETG (Glycol-modified PET)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PETG"
+    ]
+  },
+  {
+    "slug": "polybutylene-terephthalate-pbt",
+    "name": "Polybutylene Terephthalate (PBT)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polybutylene_Terephthalate"
+    ]
+  },
+  {
+    "slug": "polycarbonate-pc",
+    "name": "Polycarbonate (PC)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013O\u2013(C\u2086H\u2084)\u2013C(CH\u2083)\u2082\u2013(C\u2086H\u2084)\u2013O\u2013CO\u2013",
+    "monomers": "Bisphenol A + Phosgene (or melt transesterification)",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Tough, transparent engineering plastic.",
+    "structure": "TBD",
+    "uses": "Lenses, safety glazing, electronics housings.",
+    "manufacturing": "Interfacial or melt processes.",
+    "properties": "High impact strength; transparent; sensitive to solvents.",
+    "safety": "Avoid burning; some processes use BPA. Consult SDS.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polycarbonate"
+    ]
+  },
+  {
+    "slug": "acrylonitrile-butadiene-styrene-abs",
+    "name": "Acrylonitrile Butadiene Styrene (ABS)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Acrylonitrile_Butadiene_Styrene"
+    ]
+  },
+  {
+    "slug": "styrene-acrylonitrile-san",
+    "name": "Styrene Acrylonitrile (SAN)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Styrene_Acrylonitrile"
+    ]
+  },
+  {
+    "slug": "acrylonitrile-styrene-acrylate-asa",
+    "name": "Acrylonitrile Styrene Acrylate (ASA)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Acrylonitrile_Styrene_Acrylate"
+    ]
+  },
+  {
+    "slug": "polymethyl-methacrylate-pmma",
+    "name": "Poly(methyl methacrylate) (PMMA)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)"
+    ]
+  },
+  {
+    "slug": "polyoxymethylene-pom-acetal",
+    "name": "Polyoxymethylene (POM, Acetal)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013CH\u2082\u2013O\u2013",
+    "monomers": "Formaldehyde (trioxane)",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Crystalline engineering plastic with low friction.",
+    "structure": "TBD",
+    "uses": "Gears, bearings, precision parts.",
+    "manufacturing": "Cationic polymerization of trioxane; stabilized.",
+    "properties": "High stiffness, fatigue resistance.",
+    "safety": "Thermal degradation can release formaldehyde; process with care.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyoxymethylene"
+    ]
+  },
+  {
+    "slug": "polyamide-6-pa6-nylon-6",
+    "name": "Polyamide 6 (PA6, Nylon 6)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013NH\u2013(CH\u2082)5\u2013CO\u2013",
+    "monomers": "Caprolactam (ring-opening)",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Engineering thermoplastic with good toughness and chemical resistance.",
+    "structure": "TBD",
+    "uses": "Gears, bearings, fibers (textiles), films.",
+    "manufacturing": "Anionic ring-opening polymerization of caprolactam.",
+    "properties": "Good strength; moisture sensitive.",
+    "safety": "Follow SDS; molten processing can emit fumes.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Nylon_6"
+    ]
+  },
+  {
+    "slug": "polyamide-66-pa66-nylon-66",
+    "name": "Polyamide 66 (PA66, Nylon 66)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "\u2013NH\u2013(CH\u2082)6\u2013NH\u2013CO\u2013(CH\u2082)4\u2013CO\u2013",
+    "monomers": "Hexamethylenediamine + Adipic acid",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Higher melting nylon with good heat resistance.",
+    "structure": "TBD",
+    "uses": "Automotive under-hood, fibers, engineering parts.",
+    "manufacturing": "Condensation polymerization (salt of HMDA/adipic acid).",
+    "properties": "High strength and Tm; absorbs moisture.",
+    "safety": "Follow SDS.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Nylon_66"
+    ]
+  },
+  {
+    "slug": "polyamide-12-pa12",
+    "name": "Polyamide 12 (PA12)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyamide_12"
+    ]
+  },
+  {
+    "slug": "eva-ethylene-vinyl-acetate",
+    "name": "EVA (Ethylene-vinyl acetate)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/EVA"
+    ]
+  },
+  {
+    "slug": "eaa-ethylene-acrylic-acid",
+    "name": "EAA (Ethylene acrylic acid)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/EAA"
+    ]
+  },
+  {
+    "slug": "ema-ethylene-methyl-acrylate",
+    "name": "EMA (Ethylene methyl acrylate)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/EMA"
+    ]
+  },
+  {
+    "slug": "polyvinyl-acetate-pvac",
+    "name": "Polyvinyl Acetate (PVAc)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyvinyl_Acetate"
+    ]
+  },
+  {
+    "slug": "polyvinyl-alcohol-pva",
+    "name": "Polyvinyl Alcohol (PVA)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyvinyl_Alcohol"
+    ]
+  },
+  {
+    "slug": "polyethylene-oxide-peo-peg",
+    "name": "Poly(ethylene oxide) (PEO/PEG)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Poly(ethylene_oxide)"
+    ]
+  },
+  {
+    "slug": "polypropylene-oxide-ppo-ppg",
+    "name": "Polypropylene Oxide (PPO, PPG)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polypropylene_Oxide"
+    ]
+  },
+  {
+    "slug": "cellulose-acetate-ca",
+    "name": "Cellulose Acetate (CA)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Cellulose_Acetate"
+    ]
+  },
+  {
+    "slug": "cellulose-acetate-butyrate-cab",
+    "name": "Cellulose Acetate Butyrate (CAB)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Cellulose_Acetate_Butyrate"
+    ]
+  },
+  {
+    "slug": "cellulose-propionate-cap",
+    "name": "Cellulose Propionate (CAP)",
+    "type": "Thermoplastics",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Cellulose_Propionate"
+    ]
+  },
+  {
+    "slug": "epoxy-ep",
+    "name": "Epoxy (EP)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Epoxy"
+    ]
+  },
+  {
+    "slug": "phenolic-pf",
+    "name": "Phenolic (PF)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Phenolic"
+    ]
+  },
+  {
+    "slug": "urea-formaldehyde-uf",
+    "name": "Urea-Formaldehyde (UF)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Urea-Formaldehyde"
+    ]
+  },
+  {
+    "slug": "melamine-formaldehyde-mf",
+    "name": "Melamine-Formaldehyde (MF)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Melamine-Formaldehyde"
+    ]
+  },
+  {
+    "slug": "unsaturated-polyester-up",
+    "name": "Unsaturated Polyester (UP)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Unsaturated_Polyester"
+    ]
+  },
+  {
+    "slug": "vinyl-ester",
+    "name": "Vinyl Ester",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Vinyl_Ester"
+    ]
+  },
+  {
+    "slug": "cyanate-ester",
+    "name": "Cyanate Ester",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Cyanate_Ester"
+    ]
+  },
+  {
+    "slug": "polyurethane-pu-thermoset-foams",
+    "name": "Polyurethane (PU, thermoset foams)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyurethane"
+    ]
+  },
+  {
+    "slug": "silicone-rubber-rtv-htv",
+    "name": "Silicone Rubber (RTV, HTV)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Silicone_Rubber"
+    ]
+  },
+  {
+    "slug": "diallyl-phthalate-dap",
+    "name": "Diallyl Phthalate (DAP)",
+    "type": "Thermosets",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Diallyl_Phthalate"
+    ]
+  },
+  {
+    "slug": "natural-rubber-nr",
+    "name": "Natural Rubber (NR)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Natural_Rubber"
+    ]
+  },
+  {
+    "slug": "styrene-butadiene-rubber-sbr",
+    "name": "Styrene-Butadiene Rubber (SBR)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Styrene-Butadiene_Rubber"
+    ]
+  },
+  {
+    "slug": "nitrile-rubber-nbr",
+    "name": "Nitrile Rubber (NBR)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Nitrile_Rubber"
+    ]
+  },
+  {
+    "slug": "ethylene-propylene-diene-monomer-epdm",
+    "name": "Ethylene Propylene Diene Monomer (EPDM)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Ethylene_Propylene_Diene_Monomer"
+    ]
+  },
+  {
+    "slug": "chloroprene-rubber-cr-neoprene",
+    "name": "Chloroprene Rubber (CR, Neoprene)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Chloroprene_Rubber"
+    ]
+  },
+  {
+    "slug": "butyl-rubber-iir",
+    "name": "Butyl Rubber (IIR)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Butyl_Rubber"
+    ]
+  },
+  {
+    "slug": "polyisoprene-ir",
+    "name": "Polyisoprene (IR)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyisoprene"
+    ]
+  },
+  {
+    "slug": "polybutadiene-br",
+    "name": "Polybutadiene (BR)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polybutadiene"
+    ]
+  },
+  {
+    "slug": "thermoplastic-polyurethane-tpu",
+    "name": "Thermoplastic Polyurethane (TPU)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Thermoplastic_Polyurethane"
+    ]
+  },
+  {
+    "slug": "thermoplastic-elastomer---styrenic-tpe-s-sebs",
+    "name": "Thermoplastic Elastomer - Styrenic (TPE-S, SEBS)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Thermoplastic_Elastomer_-_Styrenic"
+    ]
+  },
+  {
+    "slug": "tpe-e-cope",
+    "name": "TPE-E (COPE)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/TPE-E"
+    ]
+  },
+  {
+    "slug": "tpe-o-tpo",
+    "name": "TPE-O (TPO)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/TPE-O"
+    ]
+  },
+  {
+    "slug": "tpe-v-tpv",
+    "name": "TPE-V (TPV)",
+    "type": "Elastomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/TPE-V"
+    ]
+  },
+  {
+    "slug": "polytetrafluoroethylene-ptfe",
+    "name": "Polytetrafluoroethylene (PTFE)",
+    "type": "Fluoropolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polytetrafluoroethylene"
+    ]
+  },
+  {
+    "slug": "fluorinated-ethylene-propylene-fep",
+    "name": "Fluorinated Ethylene Propylene (FEP)",
+    "type": "Fluoropolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Fluorinated_Ethylene_Propylene"
+    ]
+  },
+  {
+    "slug": "perfluoroalkoxy-pfa",
+    "name": "Perfluoroalkoxy (PFA)",
+    "type": "Fluoropolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Perfluoroalkoxy"
+    ]
+  },
+  {
+    "slug": "ethylene-tetrafluoroethylene-etfe",
+    "name": "Ethylene Tetrafluoroethylene (ETFE)",
+    "type": "Fluoropolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Ethylene_Tetrafluoroethylene"
+    ]
+  },
+  {
+    "slug": "polyvinylidene-fluoride-pvdf",
+    "name": "Polyvinylidene Fluoride (PVDF)",
+    "type": "Fluoropolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyvinylidene_Fluoride"
+    ]
+  },
+  {
+    "slug": "polychlorotrifluoroethylene-pctfe",
+    "name": "Polychlorotrifluoroethylene (PCTFE)",
+    "type": "Fluoropolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polychlorotrifluoroethylene"
+    ]
+  },
+  {
+    "slug": "ectfe-halar",
+    "name": "ECTFE (Halar)",
+    "type": "Fluoropolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/ECTFE"
+    ]
+  },
+  {
+    "slug": "polyether-ether-ketone-peek",
+    "name": "Polyether ether ketone (PEEK)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "\u2013O\u2013Ph\u2013O\u2013Ph\u2013CO\u2013Ph\u2013",
+    "monomers": "Hydroquinone + 4,4'-difluorobenzophenone (nucleophilic substitution)",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "High-performance thermoplastic with excellent mechanical and chemical resistance.",
+    "structure": "TBD",
+    "uses": "Aerospace, medical implants, high-temp components.",
+    "manufacturing": "High-temperature step-growth polymerization in diphenyl sulfone.",
+    "properties": "High Tm (~343\u00b0C), high modulus, chemical resistance.",
+    "safety": "Generally stable; process at recommended temps to avoid degradation.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyether_ether_ketone"
+    ]
+  },
+  {
+    "slug": "polyetherimide-pei",
+    "name": "Polyetherimide (PEI)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyetherimide"
+    ]
+  },
+  {
+    "slug": "polyimide-pi",
+    "name": "Polyimide (PI)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyimide"
+    ]
+  },
+  {
+    "slug": "polyphenylene-sulfide-pps",
+    "name": "Polyphenylene Sulfide (PPS)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyphenylene_Sulfide"
+    ]
+  },
+  {
+    "slug": "polysulfone-psu",
+    "name": "Polysulfone (PSU)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polysulfone"
+    ]
+  },
+  {
+    "slug": "polyethersulfone-pesu",
+    "name": "Polyethersulfone (PESU)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyethersulfone"
+    ]
+  },
+  {
+    "slug": "polyphenylene-oxide-ppo",
+    "name": "Polyphenylene Oxide (PPO)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyphenylene_Oxide"
+    ]
+  },
+  {
+    "slug": "pekk",
+    "name": "PEKK",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PEKK"
+    ]
+  },
+  {
+    "slug": "pek",
+    "name": "PEK",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PEK"
+    ]
+  },
+  {
+    "slug": "liquid-crystal-polymer-lcp",
+    "name": "Liquid Crystal Polymer (LCP)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Liquid_Crystal_Polymer"
+    ]
+  },
+  {
+    "slug": "ultem-pei-grade",
+    "name": "Ultem (PEI grade)",
+    "type": "High-Performance",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Ultem"
+    ]
+  },
+  {
+    "slug": "polylactic-acid-pla",
+    "name": "Polylactic Acid (PLA)",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "\u2013O\u2013CH(CH\u2083)\u2013CO\u2013",
+    "monomers": "Lactic acid / Lactide",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Biobased, compostable polyester used in packaging and 3D printing.",
+    "structure": "TBD",
+    "uses": "3D printing filament, disposable packaging, fibers.",
+    "manufacturing": "Ring-opening polymerization of lactide with metal catalysts.",
+    "properties": "Rigid, clear; lower heat resistance unless crystallized or blended.",
+    "safety": "Generally safe as a solid; industrial composting needed for rapid degradation.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polylactic_acid"
+    ]
+  },
+  {
+    "slug": "polycaprolactone-pcl",
+    "name": "Polycaprolactone (PCL)",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polycaprolactone"
+    ]
+  },
+  {
+    "slug": "polyhydroxybutyrate-phb",
+    "name": "Polyhydroxybutyrate (PHB)",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyhydroxybutyrate"
+    ]
+  },
+  {
+    "slug": "phbv-poly3-hydroxybutyrate-co-3-hydroxyvalerate",
+    "name": "PHBV (Poly(3-hydroxybutyrate-co-3-hydroxyvalerate))",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PHBV"
+    ]
+  },
+  {
+    "slug": "polybutylene-succinate-pbs",
+    "name": "Poly(butylene succinate) (PBS)",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Poly(butylene_succinate)"
+    ]
+  },
+  {
+    "slug": "pbat-polybutylene-adipate-co-terephthalate",
+    "name": "PBAT (Poly(butylene adipate-co-terephthalate))",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PBAT"
+    ]
+  },
+  {
+    "slug": "polyglycolic-acid-pga",
+    "name": "Polyglycolic Acid (PGA)",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyglycolic_Acid"
+    ]
+  },
+  {
+    "slug": "plga-polylactic-co-glycolic-acid",
+    "name": "PLGA (Poly(lactic-co-glycolic acid))",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PLGA"
+    ]
+  },
+  {
+    "slug": "starch-based-plastics",
+    "name": "Starch-based Plastics",
+    "type": "Biodegradable",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Starch-based_Plastics"
+    ]
+  },
+  {
+    "slug": "cellulose-nitrate-cn",
+    "name": "Cellulose Nitrate (CN)",
+    "type": "Natural/Cellulose",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Cellulose_Nitrate"
+    ]
+  },
+  {
+    "slug": "regenerated-cellulose-rayon",
+    "name": "Regenerated Cellulose (Rayon)",
+    "type": "Natural/Cellulose",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Regenerated_Cellulose"
+    ]
+  },
+  {
+    "slug": "cellulose-triacetate-cta",
+    "name": "Cellulose Triacetate (CTA)",
+    "type": "Natural/Cellulose",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Cellulose_Triacetate"
+    ]
+  },
+  {
+    "slug": "chitosan",
+    "name": "Chitosan",
+    "type": "Natural/Cellulose",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Chitosan"
+    ]
+  },
+  {
+    "slug": "lignin-based-resins",
+    "name": "Lignin-based Resins",
+    "type": "Natural/Cellulose",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Lignin-based_Resins"
+    ]
+  },
+  {
+    "slug": "polyaniline-pani",
+    "name": "Polyaniline (PANI)",
+    "type": "Conductive/Functional",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyaniline"
+    ]
+  },
+  {
+    "slug": "polypyrrole-ppy",
+    "name": "Polypyrrole (PPy)",
+    "type": "Conductive/Functional",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polypyrrole"
+    ]
+  },
+  {
+    "slug": "pedot:pss",
+    "name": "PEDOT:PSS",
+    "type": "Conductive/Functional",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PEDOT:PSS"
+    ]
+  },
+  {
+    "slug": "polyphenylene-vinylene-ppv",
+    "name": "Poly(phenylene vinylene) (PPV)",
+    "type": "Conductive/Functional",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Poly(phenylene_vinylene)"
+    ]
+  },
+  {
+    "slug": "polyacrylonitrile-pan",
+    "name": "Polyacrylonitrile (PAN)",
+    "type": "Conductive/Functional",
+    "aliases": [],
+    "repeatUnit": "\u2013CH\u2082\u2013CH(CN)\u2013",
+    "monomers": "Acrylonitrile",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "Precursor for carbon fibers; used in fibers and filtration.",
+    "structure": "TBD",
+    "uses": "Textile fibers, precursor for carbon fiber, filtration media.",
+    "manufacturing": "Free-radical polymerization in solution.",
+    "properties": "Good solvent resistance; cyclizes on heating.",
+    "safety": "Monomer is toxic; polymer solid low hazard. Follow SDS.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Polyacrylonitrile"
+    ]
+  },
+  {
+    "slug": "polyvinylidene-fluoride-co-trifluoroethylene-pvdf-trfe",
+    "name": "Poly(vinylidene fluoride-co-trifluoroethylene) (PVDF-TrFE)",
+    "type": "Conductive/Functional",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Poly(vinylidene_fluoride-co-trifluoroethylene)"
+    ]
+  },
+  {
+    "slug": "pc-abs",
+    "name": "PC/ABS",
+    "type": "Blends & Copolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PC/ABS"
+    ]
+  },
+  {
+    "slug": "pbt-pc",
+    "name": "PBT/PC",
+    "type": "Blends & Copolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/PBT/PC"
+    ]
+  },
+  {
+    "slug": "noryl-ppo-ps",
+    "name": "Noryl (PPO/PS)",
+    "type": "Blends & Copolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Noryl"
+    ]
+  },
+  {
+    "slug": "alloyed-nylon-pa---elastomer",
+    "name": "Alloyed Nylon (PA + elastomer)",
+    "type": "Blends & Copolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Alloyed_Nylon"
+    ]
+  },
+  {
+    "slug": "san-abs",
+    "name": "SAN/ABS",
+    "type": "Blends & Copolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/SAN/ABS"
+    ]
+  },
+  {
+    "slug": "hmpe-uhmwpe",
+    "name": "HMPE (UHMWPE)",
+    "type": "Blends & Copolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/HMPE"
+    ]
+  },
+  {
+    "slug": "xlpe-crosslinked-pe",
+    "name": "XLPE (Crosslinked PE)",
+    "type": "Blends & Copolymers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/XLPE"
+    ]
+  },
+  {
+    "slug": "e-maa-ionomer-eg-surlyn",
+    "name": "E/MAA Ionomer (e.g., Surlyn)",
+    "type": "Ionomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/E/MAA_Ionomer"
+    ]
+  },
+  {
+    "slug": "sodium-polystyrene-sulfonate-pssna",
+    "name": "Sodium Polystyrene Sulfonate (PSSNa)",
+    "type": "Ionomers",
+    "aliases": [],
+    "repeatUnit": "TBD",
+    "monomers": "TBD",
+    "density": null,
+    "Tg": null,
+    "Tm": null,
+    "overview": "TBD",
+    "structure": "TBD",
+    "uses": "TBD",
+    "manufacturing": "TBD",
+    "properties": "TBD",
+    "safety": "Consult the Safety Data Sheet (SDS) for the specific grade. Avoid fumes from combustion or overheating.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Sodium_Polystyrene_Sulfonate"
+    ]
+  }
+]

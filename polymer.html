@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>PolyLearn — Polymer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  
+<header class="header container">
+  <div class="brand">
+    <div class="logo"></div>
+    <div class="title">PolyLearn</div>
+  </div>
+  <div class="small">Learn polymers the clean way — 100 common polymers, neatly organized.</div>
+</header>
+
+  <main class="container">
+    <div id="detail" class="detail">
+      <aside class="sidebar">
+        <div class="item">
+          <div class="icon" id="polyIcon">🧪</div>
+          <div>
+            <div id="polyName" class="item-title"></div>
+            <div id="polyType" class="small"></div>
+          </div>
+        </div>
+        <div class="section">
+          <h2>Quick Facts</h2>
+          <div class="kv">
+            <div>Formula / Repeat Unit</div><div id="repeatUnit">—</div>
+            <div>Monomer(s)</div><div id="monomers">—</div>
+            <div>Density</div><div id="density">—</div>
+            <div>Tg</div><div id="tg">—</div>
+            <div>Tm</div><div id="tm">—</div>
+          </div>
+        </div>
+        <div class="section">
+          <h2>Safety & Hazards</h2>
+          <div id="safety"></div>
+        </div>
+      </aside>
+      <section>
+        <div class="section">
+          <h2>Overview</h2>
+          <div id="overview"></div>
+        </div>
+        <div class="section">
+          <h2>Structure</h2>
+          <div id="structure"></div>
+        </div>
+        <div class="section">
+          <h2>Industrial Uses</h2>
+          <div id="uses"></div>
+        </div>
+        <div class="section">
+          <h2>Manufacturing</h2>
+          <div id="manufacturing"></div>
+        </div>
+        <div class="section">
+          <h2>Properties</h2>
+          <div id="properties"></div>
+        </div>
+        <div class="section">
+          <h2>External Resources</h2>
+          <ul id="links"></ul>
+        </div>
+      </section>
+    </div>
+  </main>
+  
+<div class="footer container">
+  Built for GitHub Pages • Static HTML + JS • Add/edit polymers in <code>/data/polymers.json</code>.
+</div>
+
+  <script src="js/polymer.js"></script>
+</body>
+</html>
