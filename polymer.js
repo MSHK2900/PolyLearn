@@ -1,6 +1,5 @@
-
 async function loadData(){
-  const res = await fetch('data/polymers.json');
+  const res = await fetch('polymers.json');
   return res.json();
 }
 function getParam(name){

@@ -1,4 +1,3 @@
-
 const TYPES = [
   { key: "Thermoplastics", icon: "🧊", blurb: "Melt & reshape repeatedly (PE, PP, PVC, PET...)" },
   { key: "Thermosets", icon: "🔥", blurb: "Cure irreversibly; heat resistant (Epoxy, PF, PU foams...)" },
